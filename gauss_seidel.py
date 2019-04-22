@@ -26,13 +26,13 @@ while True:
 	print("\tex = ",ex,"\tey = ",ey,"\tez = ",ez)
 	print("--------------------------------------------------------------------------")
 
-	x = xi;
-	y = yi;
-	z = zi;
+	x = xi
+	y = yi
+	z = zi
 
 	if (str(ex).startswith("0.000")):
 		print("\nSe llegó a los 2 ceros [e=0.001] en el decimal")
-		break;
+		break
 
 	i+=1
 	

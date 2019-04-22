@@ -45,5 +45,5 @@ while True:
 	if (str(e_formatted).startswith("0.000")):
 		print("\n\nSe llegó a los 3 ceros [e = 0.001] en el decimal")
 		print("\te=",e_formatted," cuando i=",i," \txi=",xi)
-		break;
+		break
 	i=i+1
