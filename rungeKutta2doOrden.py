@@ -2,6 +2,8 @@ import math
 
 def rungeKutta2doOrden():
 
+    print("\n\tRunge - Kutta 2do Orden\n")
+
     y0 = 3
     h = 0.2
     t0 = 0
